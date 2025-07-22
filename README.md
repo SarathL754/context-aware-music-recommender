@@ -57,7 +57,10 @@ This project explores how knowledge graphs can model relationships between songs
 
 ## Example
 
-<!-- Add screenshots or usage examples if available -->
+<img width="1298" height="358" alt="image" src="https://github.com/user-attachments/assets/ebc8ae5c-95d1-4284-9c72-cba8ec99a36f" />
+<img width="340" height="293" alt="image" src="https://github.com/user-attachments/assets/9fa998c6-89c6-4ecc-b0d8-4f486eab37bb" />
+
+
 
 ```
 # Example: Loading a knowledge graph and making a mood-based recommendation
