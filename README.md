@@ -56,7 +56,7 @@ This project explores how knowledge graphs can model relationships between songs
   - Reinforcement learning experiments for recommendation
 
 ## Example
-Song labels
+**Song labels**
 Zero-shot prompt designed for Mistral-7B to classify song lyrics into one of four predefined mood categories. The model is instructed to return only the most suitable mood enclosed within [ANS] tags for consistent parsing
 <img width="1298" height="358" alt="image" src="https://github.com/user-attachments/assets/ebc8ae5c-95d1-4284-9c72-cba8ec99a36f" />
 
@@ -65,7 +65,7 @@ The majority of lyrics were classified as Uplifting and motivational, followed b
 <img width="1516" height="911" alt="image" src="https://github.com/user-attachments/assets/9db8e480-4282-4fbe-b904-dd935811c153" />
 
 
-Knowledge Graph
+**Knowledge Graph**
 <img width="821" height="301" alt="image" src="https://github.com/user-attachments/assets/554956b7-fed1-4038-ba70-c3a2af58e0a9" />
 
 Snapshot showing the total number of nodes and edges in the constructed Knowledge Graph, along with sample semantic edges. The graph encodes user preferences (e.g., user_20-35_Female → Relaxation and stress relief) and mood-to-song associations (e.g., Relaxation and stress relief → 04J7j9wIMuE8wASt1evdKv), forming the basis for explainable and mood-aligned recommendation paths.
