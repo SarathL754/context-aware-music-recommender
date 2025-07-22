@@ -1,0 +1,8 @@
+pandas
+numpy
+networkx
+torch
+transformers
+langdetect
+stable-baselines3
+matplotlib
